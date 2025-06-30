@@ -1,0 +1,11 @@
+.styled-table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    border: 10px solid #000;
+    width: 650px;
+    height: 650px;
+    border-spacing: 10px;
+}
+td {
+    border: 10px solid #000;
+}
